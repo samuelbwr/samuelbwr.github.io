@@ -3,13 +3,14 @@ author: Samuel Berwanger
 pubDatetime: 2024-12-05T20:58:52.737Z
 title: Testing AstraPaper
 featured: false
+draft: false
 tags:
   - trial
   - docs
 description: Basically trying to check how this works
 ---
 
-Let's add some text here and see where it end up. :)
+Let's add some text here and see where it end up.
 
 ## Table of contents
 
