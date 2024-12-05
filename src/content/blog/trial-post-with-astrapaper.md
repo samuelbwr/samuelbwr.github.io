@@ -5,7 +5,6 @@ title: Testing AstraPaper
 featured: true
 draft: false
 tags:
-  - trial
   - docs
 description: Basically trying to check how this works
 ---
