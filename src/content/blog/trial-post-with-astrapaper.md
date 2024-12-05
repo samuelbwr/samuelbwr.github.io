@@ -2,7 +2,7 @@
 author: Samuel Berwanger
 pubDatetime: 2024-12-05T20:58:52.737Z
 title: Testing AstraPaper
-featured: false
+featured: true
 draft: false
 tags:
   - trial
